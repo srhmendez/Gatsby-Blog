@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"excerpt":"Once upon a time, there was a ring, it was fractured. You seem to be maidenless and runeless. Poor tarnished soul. Seek respite in the great rune. Defeat Godrick, save us all.","id":"3f2b1ae2-f7ed-531e-89ce-cdd73aaef2c2","frontmatter":{"title":"Two Birds One Stone","date":"April 12, 2022","path":"/second-post"}}},{"node":{"excerpt":"Oooooh-weeee, my first blog post!","id":"bbf556de-09ab-547a-bdb2-98808b28892e","frontmatter":{"title":"Hello World","date":"April 09, 2022","path":"/hello-world"}}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"excerpt":"Once upon a time, there was a ring, it was fractured. You seem to be maidenless and runeless. Poor tarnished soul. Seek respite in the great rune. Defeat Godrick, save us all.","id":"b7c79c78-528d-5a7e-afe2-bfe7ae5680b2","frontmatter":{"title":"Two Birds One Stone","date":"April 12, 2022","path":"/second-post"}}},{"node":{"excerpt":"Oooooh-weeee, my first blog post!","id":"07477901-9ced-52b6-890a-8c76458c19d3","frontmatter":{"title":"Hello World","date":"April 09, 2022","path":"/hello-world"}}}]}},"pageContext":{}},
     "staticQueryHashes": ["3649515864"]}
