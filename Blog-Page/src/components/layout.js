@@ -25,11 +25,6 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <div className='header-img'>
-        <picture>
-          <img src="../images/header.jpg" alt='computer on desk with ambient lighting' />
-        </picture>
-      </div>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div className='main-blog-posts'>
         <main>{children}</main>
